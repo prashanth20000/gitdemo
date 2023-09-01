@@ -1,0 +1,16 @@
+package package1;
+
+public class browser {
+
+	public static void main(String[] args) {
+     
+		
+		Webdrivermanager.chromedriver().setup();
+		
+		webdriver driver = new chromedriver();
+		
+
+	}
+
+}
+ 

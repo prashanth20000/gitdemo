@@ -1,0 +1,12 @@
+package sampleprojects;
+
+public class sample1 {
+
+	public static void main(String[] args) {
+     
+		
+		WebDriverManager.chromedriver().setup();
+		WebDriver driver = new chromeDriver();
+	}
+
+}

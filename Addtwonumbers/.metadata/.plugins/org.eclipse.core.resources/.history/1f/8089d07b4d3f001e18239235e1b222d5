@@ -1,0 +1,16 @@
+package addtwonumbers1;
+
+public class day1 {
+
+	public static void main(String[] args) {
+     int a=10;
+     int b=20;
+     int c=a;
+     int b=c;
+     int b=a;
+     System.out.println("after swapping :" + (a=b + b=a) );
+     
+     
+	}
+
+}

@@ -1,0 +1,17 @@
+package addtwonumbers1;
+
+public class day1 {
+
+	public static void main(String[] args) {
+     int a=10;
+     int b=20;
+     int c=a;
+     int a=b;
+     int b=c;
+     System.out.println("first number:" + a );
+     System.out.println("second number:" + b);
+     
+     
+	}
+
+}

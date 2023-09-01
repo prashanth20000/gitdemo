@@ -1,0 +1,10 @@
+package sampleprojects;
+
+public class launchbrowser {
+
+	public static void main(String[] args) {
+      webdrivermanager.chromedriver().setup();
+      webdriver driver = new chromedriver();
+	}
+
+}
